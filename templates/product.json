@@ -111,6 +111,12 @@
             "content": "<p>We provide <strong>FREE </strong>shipping for orders <strong>over $60 USD</strong></p><p>We offer<strong> fast & tracked shipping </strong>to the <strong>United States, Canada and worldwide.</strong></p><p>All orders are <strong>shipped within a 24-48 hour timeframe</strong></p>"
           }
         },
+        "liquid_WzFCP4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"trustpilot-container\">\n  <div class=\"trustpilot-text\">\"Amazing\"</div>\n\n  <img class=\"trustpilot-image\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwTrpqlDxrYZ0pXL4aXXL4azowSSvjMZM2g&amp;s\" alt=\"Trustpilot Image\">\n\n  <div class=\"trustpilot-rating\">Rated 4.4/5 on</div>\n\n  <img class=\"trustpilot-logo\" src=\"https://cdn.shopify.com/s/files/1/0798/4267/2987/files/trustpilot-logo-sml_bf402230-0d05-4609-a750-c310e4720da2.png?v=1733179329\" alt=\"Trustpilot Image\">\n</div>\n\n<style>\n          .trustpilot-container {\n              display: flex;\n              align-items: center;\n              background-color: #e9fff9;\n              border: 1px solid #d4edda;\n              border-radius: 8px;\n              padding: 2px 10px;\n\n              width: 100%;\n  border: 1px dashed #898686;\n  gap: 8px;\n  justify-content: center;\n          }\n\n  .trustpilot-image{\n  width: 60px;\n  }\n  .trustpilot-logo{\n  width: 70px;\n  }\n  .trustpilot-text{\n  font-size: 13px;\n  font-weight: 600;\n  }\n  .trustpilot-rating{\n  font-size: 10px;\n  font-weight: 500;\n  color: #000;\n  }\n</style>"
+          }
+        },
         "image_7VJp7i": {
           "type": "image",
           "settings": {
@@ -141,6 +147,7 @@
         "buy_buttons",
         "collapsible_text_xphVXD",
         "collapsible_text_mazNfa",
+        "liquid_WzFCP4",
         "image_7VJp7i",
         "image_EYx6WQ"
       ],
