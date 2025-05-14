@@ -171,10 +171,91 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "rich_text_zqt6ti": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XyEzyp": {
+          "type": "heading",
+          "settings": {
+            "text": "Transformations with Formelle: Real Stories",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_hQ8KXt": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Discover the journey of style and confidence with our bras, as told by over <strong>100.000+ satisfied customers.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XyEzyp",
+        "richtext_hQ8KXt"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "17472339184bf08bcd": {
+      "type": "apps",
+      "blocks": {
+        "spark_spotlight_carousal_4m6FTe": {
+          "type": "shopify://apps/spark/blocks/spotlight-carousal/3eb8b961-42bd-4d42-a091-9b8e4c877d96",
+          "settings": {
+            "show_videos_dynamically": false,
+            "auto_play_video_next_video": false,
+            "feed_title": "",
+            "title_alignment": "center",
+            "show_play_button": false,
+            "show_views": false,
+            "show_arrow_buttons": true,
+            "product_card_status": "hidden",
+            "show_video_title": false,
+            "border_radius": 16,
+            "padding_top": 20,
+            "padding_bottom": 20,
+            "product_card_border_radius": 12,
+            "product_card_image_border_radius": 8,
+            "show_compare_at_price": true,
+            "product_card_btn_actn": "product_details",
+            "product_card_btn_text": "Shop",
+            "product_card_btn_background_color": "#000000",
+            "product_card_btn_text_color": "#FFFFFF",
+            "product_card_btn_border_radius": 24
+          }
+        }
+      },
+      "block_order": [
+        "spark_spotlight_carousal_4m6FTe"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
     "custom_liquid_jWnGep",
-    "main"
+    "main",
+    "rich_text_zqt6ti",
+    "17472339184bf08bcd"
   ]
 }
