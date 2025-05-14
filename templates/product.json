@@ -9,6 +9,19 @@
  */
 {
   "sections": {
+    "custom_liquid_jWnGep": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"trustpilot-container\">\n  <div class=\"trustpilot-text\">\"Amazing\"</div>\n\n  <img class=\"trustpilot-image\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwTrpqlDxrYZ0pXL4aXXL4azowSSvjMZM2g&amp;s\" alt=\"Trustpilot Image\">\n\n  <div class=\"trustpilot-rating\">Rated 4.4/5 on</div>\n\n  <img class=\"trustpilot-logo\" src=\"https://cdn.shopify.com/s/files/1/0798/4267/2987/files/trustpilot-logo-sml_bf402230-0d05-4609-a750-c310e4720da2.png?v=1733179329\" alt=\"Trustpilot Image\">\n</div>\n\n<style>\n          .trustpilot-container {\n              display: flex;\n              align-items: center;\n              background-color: #e9fff9;\n              border: 1px solid #d4edda;\n              border-radius: 8px;\n              padding: 2px 10px;\n\n              width: 100%;\n  border: 1px dashed #898686;\n  gap: 8px;\n  justify-content: center;\n          }\n\n  .trustpilot-image{\n  width: 60px;\n  }\n  .trustpilot-logo{\n  width: 70px;\n  }\n  .trustpilot-text{\n  font-size: 13px;\n  font-weight: 600;\n  }\n  .trustpilot-rating{\n  font-size: 10px;\n  font-weight: 500;\n  color: #000;\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -142,6 +155,7 @@
     }
   },
   "order": [
+    "custom_liquid_jWnGep",
     "main",
     "related-products"
   ]
