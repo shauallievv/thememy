@@ -97,6 +97,9 @@
         "quantity_selector",
         "buy_buttons"
       ],
+      "custom_css": [
+        ".badge--on-sale {background: #2c9913 !important;}"
+      ],
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
