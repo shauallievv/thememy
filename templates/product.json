@@ -96,6 +96,36 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "collapsible_text_xphVXD": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Description",
+            "content": "<p><strong>It’s the back-smoothing shaping bra you’ve been waiting for.</strong> Its innovative design smooths out your back fat, giving you a gravity-defying lift with ultimate comfort, no matter your size. <strong>Fits true to size</strong></p><p>✌️ 100% Back Smoothing</p><p>⬆️ Gradual lift cup</p><p>🤍 Body hugging fit</p><p>✨ Smooth under tops</p><p><strong>Fabric: </strong>80% Nylon & 20% Spandex</p><p><strong>Lining: </strong>83% Viscose & 17% Polyester</p><p><strong>Wash Care:</strong> Machine Wash. Do not bleach. Lay flat to dry.</p>"
+          }
+        },
+        "collapsible_text_mazNfa": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Shipping",
+            "content": "<p>We provide <strong>FREE </strong>shipping for orders <strong>over $60 USD</strong></p><p>We offer<strong> fast & tracked shipping </strong>to the <strong>United States, Canada and worldwide.</strong></p><p>All orders are <strong>shipped within a 24-48 hour timeframe</strong></p>"
+          }
+        },
+        "image_7VJp7i": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Group_1.jpg",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
+        "image_EYx6WQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2_1024x1024_5a4b8845-2a51-46b0-8776-1c214255caa1.webp",
+            "alignment": "start",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -108,7 +138,11 @@
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "collapsible_text_xphVXD",
+        "collapsible_text_mazNfa",
+        "image_7VJp7i",
+        "image_EYx6WQ"
       ],
       "custom_css": [
         ".badge--on-sale {background: #2c9913 !important;}"
